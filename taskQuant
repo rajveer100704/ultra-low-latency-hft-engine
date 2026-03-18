@@ -1,0 +1,53 @@
+# HFT System Upgrade Task List
+
+- [x] Latency Instrumentation
+    - [x] Create [LatencyTracker](file:///c:/Users/BIT/hft_system/core/latency_tracker.hpp#11-63) in `core`
+    - [x] Add timestamps to [Event](file:///c:/Users/BIT/hft_system/core/events.hpp#51-67) structures
+    - [x] Instrument `Feed`, [Parser](file:///c:/Users/BIT/hft_system/parser/trade_parser.hpp#10-18), [OrderBook](file:///c:/Users/BIT/hft_system/orderbook/order_book.hpp#16-48), [Strategy](file:///c:/Users/BIT/hft_system/strategy/strategy_engine.hpp#11-12), [Execution](file:///c:/Users/BIT/hft_system/execution/execution_engine.hpp#8-16)
+- [x] Cache-Optimized Order Book
+    - [x] Analyze current [OrderBook](file:///c:/Users/BIT/hft_system/orderbook/order_book.hpp#16-48) performance
+    - [x] Implement contiguous level storage
+    - [x] Pre-allocate price levels to minimize heap usage
+- [x] Market Microstructure Metrics
+    - [x] Implement Book Imbalance calculation
+    - [x] Track Trade Flow (buy/sell volume)
+    - [x] Calculate Spread statistics
+- [x] System Telemetry
+    - [x] Implement Events/sec counter
+    - [x] Monitor Event Queue depth
+    - [x] Add CPU usage (basic monitoring)
+- [x] Benchmarks
+    - [x] Create benchmark for Event Queue throughput
+    - [x] Create benchmark for Order Book update latency/throughput
+- [x] Terminal UI Update
+    - [x] Add Latency section to UI
+    - [x] Add Microstructure metrics to UI
+    - [x] Add System Telemetry to UI
+- [x] Final Verification & Polishing
+    - [x] Compile and fix any issues
+    - [x] Run benchmarks
+    - [x] Verify UI update
+
+- [x] Trading Platform Extension
+    - [x] Order Management System (OMS)
+        - [x] Define [OrderRequest](file:///c:/Users/BIT/hft_system/core/events.hpp#30-38) and [ExecutionReport](file:///c:/Users/BIT/hft_system/core/events.hpp#39-50) in [events.hpp](file:///c:/Users/BIT/hft_system/core/events.hpp)
+        - [x] Implement `OMS` (risk validation, state management)
+    - [x] Matching Engine
+        - [x] Implement price-time priority matching logic
+        - [x] Support Limit and Market orders
+        - [x] Emit execution reports
+    - [x] Refine Matching Engine
+        - [x] Fix market data logic (bid/ask from trades)
+        - [x] Add execution latency tracking
+    - [x] Strategy Integration
+        - [x] Update [StrategyEngine](file:///c:/Users/BIT/hft_system/strategy/strategy_engine.hpp#11-12) to submit [OrderRequest](file:///c:/Users/BIT/hft_system/core/events.hpp#30-38)
+        - [x] Assign unique `order_id` in strategy
+    - [x] Main Loop Integration
+        - [x] Route [OrderRequest](file:///c:/Users/BIT/hft_system/core/events.hpp#30-38) to [MatchingEngine](file:///c:/Users/BIT/hft_system/exchange/matching_engine.hpp#14-15) (via OMS)
+        - [x] Route [ExecutionReport](file:///c:/Users/BIT/hft_system/core/events.hpp#39-50) to [PnLEngine](file:///c:/Users/BIT/hft_system/pnl/pnl_engine.hpp#7-19) and [OrderManager](file:///c:/Users/BIT/hft_system/oms/order_manager.cpp#6-8)
+    - [x] UI Update
+        - [x] Display Open Orders
+        - [x] Display Filled Trades
+        - [x] Show Realized/Unrealized PnL
+
+

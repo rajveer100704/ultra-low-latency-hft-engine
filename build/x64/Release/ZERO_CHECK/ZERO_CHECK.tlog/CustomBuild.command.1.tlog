@@ -1,0 +1,10 @@
+^C:\USERS\BIT\HFT_SYSTEM\BUILD\CMAKEFILES\A2F8362260A32BA3B68882827DC61D47\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/BIT/hft_system -BC:/Users/BIT/hft_system/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/BIT/hft_system/build/HFT_System.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

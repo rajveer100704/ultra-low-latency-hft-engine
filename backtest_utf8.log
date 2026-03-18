@@ -1,0 +1,313 @@
+﻿[2026-03-18 19:44:08.036] [info] Starting HFT system | Mode: REPLAY | Speed: 100x
+[2026-03-18 19:44:08.052] [info] Strategy: Replacing orders (Mid: 50000.45, Imbalance: 0.00, Pos: 0.00)
+[2026-03-18 19:44:08.052] [info] OMS: Order 1 validated and accepted.
+[2026-03-18 19:44:08.052] [info] OMS: Order 2 validated and accepted.
+[2026-03-18 19:44:08.052] [info] MatchingEngine: Limit order 1 resting in book.
+[2026-03-18 19:44:08.052] [info] MatchingEngine: ExecutionReport for order 1 status 0
+[2026-03-18 19:44:08.052] [info] MatchingEngine: Order 1 processed in 8000 ns
+[2026-03-18 19:44:08.052] [info] MatchingEngine: Limit order 2 resting in book.
+[2026-03-18 19:44:08.052] [info] MatchingEngine: ExecutionReport for order 2 status 0
+[2026-03-18 19:44:08.052] [info] MatchingEngine: Order 2 processed in 5600 ns
+[2026-03-18 19:44:08.052] [info] OMS: Execution report for Order 1: Status 0
+[2026-03-18 19:44:08.052] [info] OMS: Execution report for Order 2: Status 0
+[2026-03-18 19:44:08.159] [info] Strategy: Replacing orders (Mid: 50000.35, Imbalance: 0.00, Pos: 0.00)
+[2026-03-18 19:44:08.159] [info] MatchingEngine: ExecutionReport for order 1 status 3
+[2026-03-18 19:44:08.159] [info] MatchingEngine: Cancelled order 1
+[2026-03-18 19:44:08.159] [info] MatchingEngine: ExecutionReport for order 2 status 3
+[2026-03-18 19:44:08.159] [info] MatchingEngine: Cancelled order 2
+[2026-03-18 19:44:08.159] [info] OMS: Order 3 validated and accepted.
+[2026-03-18 19:44:08.159] [info] OMS: Order 4 validated and accepted.
+[2026-03-18 19:44:08.159] [info] OMS: Execution report for Order 1: Status 3
+[2026-03-18 19:44:08.159] [info] OMS: Execution report for Order 2: Status 3
+[2026-03-18 19:44:08.159] [info] MatchingEngine: Limit order 3 resting in book.
+[2026-03-18 19:44:08.159] [info] MatchingEngine: ExecutionReport for order 3 status 0
+[2026-03-18 19:44:08.159] [info] MatchingEngine: Order 3 processed in 7100 ns
+[2026-03-18 19:44:08.159] [info] MatchingEngine: Limit order 4 resting in book.
+[2026-03-18 19:44:08.159] [info] MatchingEngine: ExecutionReport for order 4 status 0
+[2026-03-18 19:44:08.159] [info] MatchingEngine: Order 4 processed in 5400 ns
+[2026-03-18 19:44:08.159] [info] OMS: Execution report for Order 3: Status 0
+[2026-03-18 19:44:08.159] [info] OMS: Execution report for Order 4: Status 0
+[2026-03-18 19:44:08.298] [info] Strategy: Replacing orders (Mid: 50000.20, Imbalance: 0.00, Pos: 0.00)
+[2026-03-18 19:44:08.299] [info] MatchingEngine: ExecutionReport for order 3 status 3
+[2026-03-18 19:44:08.299] [info] MatchingEngine: Cancelled order 3
+[2026-03-18 19:44:08.299] [info] MatchingEngine: ExecutionReport for order 4 status 3
+[2026-03-18 19:44:08.299] [info] MatchingEngine: Cancelled order 4
+[2026-03-18 19:44:08.299] [info] OMS: Order 5 validated and accepted.
+[2026-03-18 19:44:08.299] [info] OMS: Order 6 validated and accepted.
+[2026-03-18 19:44:08.299] [info] OMS: Execution report for Order 3: Status 3
+[2026-03-18 19:44:08.299] [info] OMS: Execution report for Order 4: Status 3
+[2026-03-18 19:44:08.299] [info] MatchingEngine: Limit order 5 resting in book.
+[2026-03-18 19:44:08.299] [info] MatchingEngine: ExecutionReport for order 5 status 0
+[2026-03-18 19:44:08.299] [info] MatchingEngine: Order 5 processed in 4700 ns
+[2026-03-18 19:44:08.299] [info] MatchingEngine: Limit order 6 resting in book.
+[2026-03-18 19:44:08.299] [info] MatchingEngine: ExecutionReport for order 6 status 0
+[2026-03-18 19:44:08.299] [info] MatchingEngine: Order 6 processed in 4200 ns
+[2026-03-18 19:44:08.299] [info] OMS: Execution report for Order 5: Status 0
+[2026-03-18 19:44:08.299] [info] OMS: Execution report for Order 6: Status 0
+[2026-03-18 19:44:08.422] [info] Strategy: Replacing orders (Mid: 49999.55, Imbalance: 0.00, Pos: 0.00)
+[2026-03-18 19:44:08.422] [info] MatchingEngine: ExecutionReport for order 5 status 3
+[2026-03-18 19:44:08.422] [info] MatchingEngine: Cancelled order 5
+[2026-03-18 19:44:08.422] [info] MatchingEngine: ExecutionReport for order 6 status 3
+[2026-03-18 19:44:08.422] [info] MatchingEngine: Cancelled order 6
+[2026-03-18 19:44:08.422] [info] OMS: Order 7 validated and accepted.
+[2026-03-18 19:44:08.422] [info] OMS: Order 8 validated and accepted.
+[2026-03-18 19:44:08.422] [info] OMS: Execution report for Order 5: Status 3
+[2026-03-18 19:44:08.422] [info] OMS: Execution report for Order 6: Status 3
+[2026-03-18 19:44:08.422] [info] MatchingEngine: Limit order 7 resting in book.
+[2026-03-18 19:44:08.422] [info] MatchingEngine: ExecutionReport for order 7 status 0
+[2026-03-18 19:44:08.422] [info] MatchingEngine: Order 7 processed in 5600 ns
+[2026-03-18 19:44:08.422] [info] MatchingEngine: Limit order 8 resting in book.
+[2026-03-18 19:44:08.422] [info] MatchingEngine: ExecutionReport for order 8 status 0
+[2026-03-18 19:44:08.422] [info] MatchingEngine: Order 8 processed in 7200 ns
+[2026-03-18 19:44:08.422] [info] OMS: Execution report for Order 7: Status 0
+[2026-03-18 19:44:08.422] [info] OMS: Execution report for Order 8: Status 0
+[2026-03-18 19:44:08.890] [info] Strategy: Replacing orders (Mid: 49999.65, Imbalance: 0.00, Pos: 0.00)
+[2026-03-18 19:44:08.890] [info] MatchingEngine: ExecutionReport for order 7 status 3
+[2026-03-18 19:44:08.890] [info] MatchingEngine: Cancelled order 7
+[2026-03-18 19:44:08.890] [info] MatchingEngine: ExecutionReport for order 8 status 3
+[2026-03-18 19:44:08.890] [info] MatchingEngine: Cancelled order 8
+[2026-03-18 19:44:08.890] [info] OMS: Order 9 validated and accepted.
+[2026-03-18 19:44:08.890] [info] OMS: Order 10 validated and accepted.
+[2026-03-18 19:44:08.890] [info] OMS: Execution report for Order 7: Status 3
+[2026-03-18 19:44:08.890] [info] OMS: Execution report for Order 8: Status 3
+[2026-03-18 19:44:08.890] [info] MatchingEngine: Limit order 9 resting in book.
+[2026-03-18 19:44:08.890] [info] MatchingEngine: ExecutionReport for order 9 status 0
+[2026-03-18 19:44:08.890] [info] MatchingEngine: Order 9 processed in 12500 ns
+[2026-03-18 19:44:08.890] [info] MatchingEngine: ExecutionReport for order 10 status 2
+[2026-03-18 19:44:08.890] [info] MatchingEngine: Order 10 processed in 6400 ns
+[2026-03-18 19:44:08.890] [info] OMS: Execution report for Order 9: Status 0
+[2026-03-18 19:44:08.890] [info] OMS: Execution report for Order 10: Status 2
+[2026-03-18 19:44:08.890] [info] Risk: Position updated to -0.1000
+[2026-03-18 19:44:08.999] [info] Strategy: Replacing orders (Mid: 49999.65, Imbalance: 0.00, Pos: -0.10)
+[2026-03-18 19:44:08.999] [info] MatchingEngine: ExecutionReport for order 9 status 3
+[2026-03-18 19:44:08.999] [info] MatchingEngine: Cancelled order 9
+[2026-03-18 19:44:08.999] [info] MatchingEngine: ExecutionReport for order 10 status 3
+[2026-03-18 19:44:08.999] [info] MatchingEngine: Cancelled order 10
+[2026-03-18 19:44:08.999] [info] OMS: Order 11 validated and accepted.
+[2026-03-18 19:44:08.999] [info] OMS: Order 12 validated and accepted.
+[2026-03-18 19:44:08.999] [info] OMS: Execution report for Order 9: Status 3
+[2026-03-18 19:44:08.999] [info] MatchingEngine: Limit order 11 resting in book.
+[2026-03-18 19:44:08.999] [info] MatchingEngine: ExecutionReport for order 11 status 0
+[2026-03-18 19:44:08.999] [info] MatchingEngine: Order 11 processed in 5000 ns
+[2026-03-18 19:44:08.999] [info] MatchingEngine: ExecutionReport for order 12 status 2
+[2026-03-18 19:44:08.999] [info] MatchingEngine: Order 12 processed in 2200 ns
+[2026-03-18 19:44:08.999] [info] OMS: Execution report for Order 11: Status 0
+[2026-03-18 19:44:08.999] [info] OMS: Execution report for Order 12: Status 2
+[2026-03-18 19:44:08.999] [info] Risk: Position updated to -0.2000
+[2026-03-18 19:44:09.512] [info] Strategy: Replacing orders (Mid: 49999.75, Imbalance: 0.00, Pos: -0.20)
+[2026-03-18 19:44:09.512] [info] MatchingEngine: ExecutionReport for order 11 status 3
+[2026-03-18 19:44:09.512] [info] MatchingEngine: Cancelled order 11
+[2026-03-18 19:44:09.512] [info] MatchingEngine: ExecutionReport for order 12 status 3
+[2026-03-18 19:44:09.512] [info] MatchingEngine: Cancelled order 12
+[2026-03-18 19:44:09.512] [info] OMS: Order 13 validated and accepted.
+[2026-03-18 19:44:09.512] [info] OMS: Order 14 validated and accepted.
+[2026-03-18 19:44:09.512] [info] OMS: Execution report for Order 11: Status 3
+[2026-03-18 19:44:09.512] [info] MatchingEngine: Limit order 13 resting in book.
+[2026-03-18 19:44:09.512] [info] MatchingEngine: ExecutionReport for order 13 status 0
+[2026-03-18 19:44:09.512] [info] MatchingEngine: Order 13 processed in 4600 ns
+[2026-03-18 19:44:09.512] [info] MatchingEngine: ExecutionReport for order 14 status 2
+[2026-03-18 19:44:09.512] [info] MatchingEngine: Order 14 processed in 2200 ns
+[2026-03-18 19:44:09.512] [info] OMS: Execution report for Order 13: Status 0
+[2026-03-18 19:44:09.512] [info] OMS: Execution report for Order 14: Status 2
+[2026-03-18 19:44:09.512] [info] Risk: Position updated to -0.3000
+[2026-03-18 19:44:09.616] [info] Strategy: Replacing orders (Mid: 50000.30, Imbalance: 0.00, Pos: -0.30)
+[2026-03-18 19:44:09.616] [info] MatchingEngine: ExecutionReport for order 13 status 3
+[2026-03-18 19:44:09.616] [info] MatchingEngine: Cancelled order 13
+[2026-03-18 19:44:09.616] [info] MatchingEngine: ExecutionReport for order 14 status 3
+[2026-03-18 19:44:09.616] [info] MatchingEngine: Cancelled order 14
+[2026-03-18 19:44:09.616] [info] OMS: Order 15 validated and accepted.
+[2026-03-18 19:44:09.616] [info] OMS: Order 16 validated and accepted.
+[2026-03-18 19:44:09.616] [info] OMS: Execution report for Order 13: Status 3
+[2026-03-18 19:44:09.616] [info] MatchingEngine: Limit order 15 resting in book.
+[2026-03-18 19:44:09.616] [info] MatchingEngine: ExecutionReport for order 15 status 0
+[2026-03-18 19:44:09.616] [info] MatchingEngine: Order 15 processed in 5500 ns
+[2026-03-18 19:44:09.616] [info] MatchingEngine: ExecutionReport for order 16 status 2
+[2026-03-18 19:44:09.616] [info] MatchingEngine: Order 16 processed in 3700 ns
+[2026-03-18 19:44:09.616] [info] OMS: Execution report for Order 15: Status 0
+[2026-03-18 19:44:09.616] [info] OMS: Execution report for Order 16: Status 2
+[2026-03-18 19:44:09.616] [info] Risk: Position updated to -0.4000
+[2026-03-18 19:44:09.729] [info] Strategy: Replacing orders (Mid: 50000.35, Imbalance: 0.00, Pos: -0.40)
+[2026-03-18 19:44:09.730] [info] MatchingEngine: ExecutionReport for order 15 status 3
+[2026-03-18 19:44:09.730] [info] MatchingEngine: Cancelled order 15
+[2026-03-18 19:44:09.730] [info] MatchingEngine: ExecutionReport for order 16 status 3
+[2026-03-18 19:44:09.730] [info] MatchingEngine: Cancelled order 16
+[2026-03-18 19:44:09.730] [info] OMS: Order 17 validated and accepted.
+[2026-03-18 19:44:09.730] [info] OMS: Order 18 validated and accepted.
+[2026-03-18 19:44:09.730] [info] OMS: Execution report for Order 15: Status 3
+[2026-03-18 19:44:09.730] [info] MatchingEngine: Limit order 17 resting in book.
+[2026-03-18 19:44:09.730] [info] MatchingEngine: ExecutionReport for order 17 status 0
+[2026-03-18 19:44:09.730] [info] MatchingEngine: Order 17 processed in 4800 ns
+[2026-03-18 19:44:09.730] [info] MatchingEngine: ExecutionReport for order 18 status 2
+[2026-03-18 19:44:09.730] [info] MatchingEngine: Order 18 processed in 2500 ns
+[2026-03-18 19:44:09.730] [info] OMS: Execution report for Order 17: Status 0
+[2026-03-18 19:44:09.730] [info] OMS: Execution report for Order 18: Status 2
+[2026-03-18 19:44:09.730] [info] Risk: Position updated to -0.5000
+[2026-03-18 19:44:09.855] [info] Strategy: Replacing orders (Mid: 50000.45, Imbalance: 0.00, Pos: -0.50)
+[2026-03-18 19:44:09.855] [info] MatchingEngine: ExecutionReport for order 17 status 3
+[2026-03-18 19:44:09.855] [info] MatchingEngine: Cancelled order 17
+[2026-03-18 19:44:09.855] [info] MatchingEngine: ExecutionReport for order 18 status 3
+[2026-03-18 19:44:09.855] [info] MatchingEngine: Cancelled order 18
+[2026-03-18 19:44:09.855] [info] OMS: Order 19 validated and accepted.
+[2026-03-18 19:44:09.855] [info] OMS: Order 20 validated and accepted.
+[2026-03-18 19:44:09.855] [info] OMS: Execution report for Order 17: Status 3
+[2026-03-18 19:44:09.855] [info] MatchingEngine: Limit order 19 resting in book.
+[2026-03-18 19:44:09.855] [info] MatchingEngine: ExecutionReport for order 19 status 0
+[2026-03-18 19:44:09.855] [info] MatchingEngine: Order 19 processed in 6700 ns
+[2026-03-18 19:44:09.855] [info] MatchingEngine: ExecutionReport for order 20 status 2
+[2026-03-18 19:44:09.855] [info] MatchingEngine: Order 20 processed in 3100 ns
+[2026-03-18 19:44:09.855] [info] OMS: Execution report for Order 19: Status 0
+[2026-03-18 19:44:09.855] [info] OMS: Execution report for Order 20: Status 2
+[2026-03-18 19:44:09.855] [info] Risk: Position updated to -0.6000
+[2026-03-18 19:44:09.968] [info] Strategy: Replacing orders (Mid: 50000.60, Imbalance: 0.00, Pos: -0.60)
+[2026-03-18 19:44:09.968] [info] MatchingEngine: ExecutionReport for order 19 status 3
+[2026-03-18 19:44:09.968] [info] MatchingEngine: Cancelled order 19
+[2026-03-18 19:44:09.968] [info] MatchingEngine: ExecutionReport for order 20 status 3
+[2026-03-18 19:44:09.968] [info] MatchingEngine: Cancelled order 20
+[2026-03-18 19:44:09.968] [info] OMS: Order 21 validated and accepted.
+[2026-03-18 19:44:09.968] [info] OMS: Order 22 validated and accepted.
+[2026-03-18 19:44:09.968] [info] OMS: Execution report for Order 19: Status 3
+[2026-03-18 19:44:09.968] [info] MatchingEngine: Limit order 21 resting in book.
+[2026-03-18 19:44:09.968] [info] MatchingEngine: ExecutionReport for order 21 status 0
+[2026-03-18 19:44:09.968] [info] MatchingEngine: Order 21 processed in 7300 ns
+[2026-03-18 19:44:09.968] [info] MatchingEngine: ExecutionReport for order 22 status 2
+[2026-03-18 19:44:09.968] [info] MatchingEngine: Order 22 processed in 2800 ns
+[2026-03-18 19:44:09.968] [info] OMS: Execution report for Order 21: Status 0
+[2026-03-18 19:44:09.968] [info] OMS: Execution report for Order 22: Status 2
+[2026-03-18 19:44:09.968] [info] Risk: Position updated to -0.7000
+[2026-03-18 19:44:10.401] [info] Strategy: Replacing orders (Mid: 50000.45, Imbalance: 0.00, Pos: -0.70)
+[2026-03-18 19:44:10.401] [info] MatchingEngine: ExecutionReport for order 21 status 3
+[2026-03-18 19:44:10.401] [info] MatchingEngine: Cancelled order 21
+[2026-03-18 19:44:10.401] [info] MatchingEngine: ExecutionReport for order 22 status 3
+[2026-03-18 19:44:10.401] [info] MatchingEngine: Cancelled order 22
+[2026-03-18 19:44:10.401] [info] OMS: Order 23 validated and accepted.
+[2026-03-18 19:44:10.401] [info] OMS: Order 24 validated and accepted.
+[2026-03-18 19:44:10.401] [info] OMS: Execution report for Order 21: Status 3
+[2026-03-18 19:44:10.401] [info] MatchingEngine: ExecutionReport for order 23 status 2
+[2026-03-18 19:44:10.401] [info] MatchingEngine: Order 23 processed in 21500 ns
+[2026-03-18 19:44:10.401] [info] MatchingEngine: Limit order 24 resting in book.
+[2026-03-18 19:44:10.401] [info] MatchingEngine: ExecutionReport for order 24 status 0
+[2026-03-18 19:44:10.401] [info] MatchingEngine: Order 24 processed in 7800 ns
+[2026-03-18 19:44:10.401] [info] OMS: Execution report for Order 23: Status 2
+[2026-03-18 19:44:10.401] [info] Risk: Position updated to -0.6000
+[2026-03-18 19:44:10.401] [info] OMS: Execution report for Order 24: Status 0
+[2026-03-18 19:44:13.340] [info] Strategy: Replacing orders (Mid: 50000.50, Imbalance: 0.00, Pos: -0.60)
+[2026-03-18 19:44:13.340] [info] MatchingEngine: ExecutionReport for order 23 status 3
+[2026-03-18 19:44:13.340] [info] MatchingEngine: Cancelled order 23
+[2026-03-18 19:44:13.340] [info] MatchingEngine: ExecutionReport for order 24 status 3
+[2026-03-18 19:44:13.340] [info] MatchingEngine: Cancelled order 24
+[2026-03-18 19:44:13.340] [info] OMS: Order 25 validated and accepted.
+[2026-03-18 19:44:13.340] [info] OMS: Order 26 validated and accepted.
+[2026-03-18 19:44:13.340] [info] OMS: Execution report for Order 24: Status 3
+[2026-03-18 19:44:13.340] [info] MatchingEngine: Limit order 25 resting in book.
+[2026-03-18 19:44:13.340] [info] MatchingEngine: ExecutionReport for order 25 status 0
+[2026-03-18 19:44:13.340] [info] MatchingEngine: Order 25 processed in 4600 ns
+[2026-03-18 19:44:13.340] [info] MatchingEngine: ExecutionReport for order 26 status 2
+[2026-03-18 19:44:13.340] [info] MatchingEngine: Order 26 processed in 2200 ns
+[2026-03-18 19:44:13.340] [info] OMS: Execution report for Order 25: Status 0
+[2026-03-18 19:44:13.340] [info] OMS: Execution report for Order 26: Status 2
+[2026-03-18 19:44:13.340] [info] Risk: Position updated to -0.7000
+[2026-03-18 19:44:15.183] [info] Strategy: Replacing orders (Mid: 50000.65, Imbalance: 0.00, Pos: -0.70)
+[2026-03-18 19:44:15.183] [info] MatchingEngine: ExecutionReport for order 25 status 3
+[2026-03-18 19:44:15.183] [info] MatchingEngine: Cancelled order 25
+[2026-03-18 19:44:15.183] [info] MatchingEngine: ExecutionReport for order 26 status 3
+[2026-03-18 19:44:15.183] [info] MatchingEngine: Cancelled order 26
+[2026-03-18 19:44:15.183] [info] OMS: Order 27 validated and accepted.
+[2026-03-18 19:44:15.183] [info] OMS: Order 28 validated and accepted.
+[2026-03-18 19:44:15.183] [info] OMS: Execution report for Order 25: Status 3
+[2026-03-18 19:44:15.183] [info] MatchingEngine: Limit order 27 resting in book.
+[2026-03-18 19:44:15.183] [info] MatchingEngine: ExecutionReport for order 27 status 0
+[2026-03-18 19:44:15.183] [info] MatchingEngine: Order 27 processed in 7300 ns
+[2026-03-18 19:44:15.183] [info] MatchingEngine: ExecutionReport for order 28 status 2
+[2026-03-18 19:44:15.183] [info] MatchingEngine: Order 28 processed in 3300 ns
+[2026-03-18 19:44:15.183] [info] OMS: Execution report for Order 27: Status 0
+[2026-03-18 19:44:15.183] [info] OMS: Execution report for Order 28: Status 2
+[2026-03-18 19:44:15.183] [info] Risk: Position updated to -0.8000
+[2026-03-18 19:44:15.289] [info] Strategy: Replacing orders (Mid: 50000.80, Imbalance: 0.00, Pos: -0.80)
+[2026-03-18 19:44:15.289] [info] MatchingEngine: ExecutionReport for order 27 status 3
+[2026-03-18 19:44:15.289] [info] MatchingEngine: Cancelled order 27
+[2026-03-18 19:44:15.289] [info] MatchingEngine: ExecutionReport for order 28 status 3
+[2026-03-18 19:44:15.289] [info] MatchingEngine: Cancelled order 28
+[2026-03-18 19:44:15.289] [info] OMS: Order 29 validated and accepted.
+[2026-03-18 19:44:15.289] [info] OMS: Order 30 validated and accepted.
+[2026-03-18 19:44:15.289] [info] OMS: Execution report for Order 27: Status 3
+[2026-03-18 19:44:15.289] [info] MatchingEngine: Limit order 29 resting in book.
+[2026-03-18 19:44:15.289] [info] MatchingEngine: ExecutionReport for order 29 status 0
+[2026-03-18 19:44:15.289] [info] MatchingEngine: Order 29 processed in 8600 ns
+[2026-03-18 19:44:15.289] [info] MatchingEngine: ExecutionReport for order 30 status 2
+[2026-03-18 19:44:15.289] [info] MatchingEngine: Order 30 processed in 2300 ns
+[2026-03-18 19:44:15.289] [info] OMS: Execution report for Order 29: Status 0
+[2026-03-18 19:44:15.289] [info] OMS: Execution report for Order 30: Status 2
+[2026-03-18 19:44:15.289] [info] Risk: Position updated to -0.9000
+[2026-03-18 19:44:15.472] [info] Strategy: Replacing orders (Mid: 50000.95, Imbalance: 0.00, Pos: -0.90)
+[2026-03-18 19:44:15.472] [info] MatchingEngine: ExecutionReport for order 29 status 3
+[2026-03-18 19:44:15.472] [info] MatchingEngine: Cancelled order 29
+[2026-03-18 19:44:15.472] [info] MatchingEngine: ExecutionReport for order 30 status 3
+[2026-03-18 19:44:15.472] [info] MatchingEngine: Cancelled order 30
+[2026-03-18 19:44:15.472] [info] OMS: Order 31 validated and accepted.
+[2026-03-18 19:44:15.472] [info] OMS: Order 32 validated and accepted.
+[2026-03-18 19:44:15.472] [info] OMS: Execution report for Order 29: Status 3
+[2026-03-18 19:44:15.472] [info] MatchingEngine: Limit order 31 resting in book.
+[2026-03-18 19:44:15.472] [info] MatchingEngine: ExecutionReport for order 31 status 0
+[2026-03-18 19:44:15.472] [info] MatchingEngine: Order 31 processed in 6900 ns
+[2026-03-18 19:44:15.472] [info] MatchingEngine: ExecutionReport for order 32 status 2
+[2026-03-18 19:44:15.472] [info] MatchingEngine: Order 32 processed in 4400 ns
+[2026-03-18 19:44:15.472] [info] OMS: Execution report for Order 31: Status 0
+[2026-03-18 19:44:15.472] [info] OMS: Execution report for Order 32: Status 2
+[2026-03-18 19:44:15.472] [info] Risk: Position updated to -1.0000
+[2026-03-18 19:44:15.582] [info] Strategy: Replacing orders (Mid: 50000.95, Imbalance: 0.00, Pos: -1.00)
+[2026-03-18 19:44:15.582] [info] MatchingEngine: ExecutionReport for order 31 status 3
+[2026-03-18 19:44:15.582] [info] MatchingEngine: Cancelled order 31
+[2026-03-18 19:44:15.582] [info] MatchingEngine: ExecutionReport for order 32 status 3
+[2026-03-18 19:44:15.582] [info] MatchingEngine: Cancelled order 32
+[2026-03-18 19:44:15.582] [info] OMS: Order 33 validated and accepted.
+[2026-03-18 19:44:15.582] [info] OMS: Order 34 validated and accepted.
+[2026-03-18 19:44:15.582] [info] OMS: Execution report for Order 31: Status 3
+[2026-03-18 19:44:15.582] [info] MatchingEngine: Limit order 33 resting in book.
+[2026-03-18 19:44:15.582] [info] MatchingEngine: ExecutionReport for order 33 status 0
+[2026-03-18 19:44:15.582] [info] MatchingEngine: Order 33 processed in 6200 ns
+[2026-03-18 19:44:15.582] [info] MatchingEngine: ExecutionReport for order 34 status 2
+[2026-03-18 19:44:15.582] [info] MatchingEngine: Order 34 processed in 3000 ns
+[2026-03-18 19:44:15.582] [info] OMS: Execution report for Order 33: Status 0
+[2026-03-18 19:44:15.582] [info] OMS: Execution report for Order 34: Status 2
+[2026-03-18 19:44:15.582] [info] Risk: Position updated to -1.1000
+[2026-03-18 19:44:15.685] [info] Strategy: Replacing orders (Mid: 50001.05, Imbalance: 0.00, Pos: -1.10)
+[2026-03-18 19:44:15.685] [info] MatchingEngine: ExecutionReport for order 33 status 3
+[2026-03-18 19:44:15.685] [info] MatchingEngine: Cancelled order 33
+[2026-03-18 19:44:15.685] [info] MatchingEngine: ExecutionReport for order 34 status 3
+[2026-03-18 19:44:15.685] [info] MatchingEngine: Cancelled order 34
+[2026-03-18 19:44:15.685] [info] OMS: Order 35 validated and accepted.
+[2026-03-18 19:44:15.685] [info] OMS: Order 36 validated and accepted.
+[2026-03-18 19:44:15.685] [info] OMS: Execution report for Order 33: Status 3
+[2026-03-18 19:44:15.685] [info] MatchingEngine: Limit order 35 resting in book.
+[2026-03-18 19:44:15.685] [info] MatchingEngine: ExecutionReport for order 35 status 0
+[2026-03-18 19:44:15.685] [info] MatchingEngine: Order 35 processed in 7000 ns
+[2026-03-18 19:44:15.685] [info] MatchingEngine: ExecutionReport for order 36 status 2
+[2026-03-18 19:44:15.685] [info] MatchingEngine: Order 36 processed in 3400 ns
+[2026-03-18 19:44:15.685] [info] OMS: Execution report for Order 35: Status 0
+[2026-03-18 19:44:15.685] [info] OMS: Execution report for Order 36: Status 2
+[2026-03-18 19:44:15.685] [info] Risk: Position updated to -1.2000
+[2026-03-18 19:44:15.795] [info] Strategy: Replacing orders (Mid: 50001.20, Imbalance: 0.00, Pos: -1.20)
+[2026-03-18 19:44:15.795] [info] MatchingEngine: ExecutionReport for order 35 status 3
+[2026-03-18 19:44:15.795] [info] MatchingEngine: Cancelled order 35
+[2026-03-18 19:44:15.795] [info] MatchingEngine: ExecutionReport for order 36 status 3
+[2026-03-18 19:44:15.795] [info] MatchingEngine: Cancelled order 36
+[2026-03-18 19:44:15.795] [info] OMS: Order 37 validated and accepted.
+[2026-03-18 19:44:15.795] [info] OMS: Order 38 validated and accepted.
+[2026-03-18 19:44:15.795] [info] OMS: Execution report for Order 35: Status 3
+[2026-03-18 19:44:15.795] [info] MatchingEngine: Limit order 37 resting in book.
+[2026-03-18 19:44:15.795] [info] MatchingEngine: ExecutionReport for order 37 status 0
+[2026-03-18 19:44:15.795] [info] MatchingEngine: Order 37 processed in 4500 ns
+[2026-03-18 19:44:15.795] [info] MatchingEngine: ExecutionReport for order 38 status 2
+[2026-03-18 19:44:15.795] [info] MatchingEngine: Order 38 processed in 2200 ns
+[2026-03-18 19:44:15.795] [info] OMS: Execution report for Order 37: Status 0
+[2026-03-18 19:44:15.795] [info] OMS: Execution report for Order 38: Status 2
+[2026-03-18 19:44:15.795] [info] Risk: Position updated to -1.3000
+[2026-03-18 19:44:28.467] [info] ReplayEngine: Finished replaying market_data_record.csv
+[2026-03-18 19:44:28.476] [info] Backtest complete.
+[2026-03-18 19:44:28.491] [info] HFT system shut down.
+[2026-03-18 19:44:28.491] [info] === FINAL PERFORMANCE SUMMARY ===
+[2026-03-18 19:44:28.491] [info] Total PnL:      -1.13
+[2026-03-18 19:44:28.491] [info] Max Drawdown:   60003.60
+[2026-03-18 19:44:28.491] [info] Total Trades:   1
+[2026-03-18 19:44:28.491] [info] Win Rate:       100.00%
+[2026-03-18 19:44:28.491] [info] =================================

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\BIT\hft_system\build\_deps\simdjson-subbuild\CMakeFiles\4755eb30ebdbf2ba2efa008b701a6d79\simdjson-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\BIT\hft_system\build\_deps\simdjson-subbuild\CMakeFiles\4755eb30ebdbf2ba2efa008b701a6d79\simdjson-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\BIT\hft_system\build\_deps\simdjson-subbuild\CMakeFiles\4755eb30ebdbf2ba2efa008b701a6d79\simdjson-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\BIT\hft_system\build\_deps\simdjson-subbuild\CMakeFiles\4755eb30ebdbf2ba2efa008b701a6d79\simdjson-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\BIT\hft_system\build\_deps\simdjson-subbuild\CMakeFiles\4755eb30ebdbf2ba2efa008b701a6d79\simdjson-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\BIT\hft_system\build\_deps\simdjson-subbuild\CMakeFiles\4755eb30ebdbf2ba2efa008b701a6d79\simdjson-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\BIT\hft_system\build\_deps\simdjson-subbuild\CMakeFiles\4755eb30ebdbf2ba2efa008b701a6d79\simdjson-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\BIT\hft_system\build\_deps\simdjson-subbuild\CMakeFiles\4755eb30ebdbf2ba2efa008b701a6d79\simdjson-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\BIT\hft_system\build\_deps\simdjson-subbuild\CMakeFiles\c714b911aedf2ae440c04bb1ba989d7e\simdjson-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\BIT\hft_system\build\_deps\simdjson-subbuild\CMakeFiles\f4dbbe634f337833c9da32e6d44dc54b\simdjson-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\BIT\hft_system\build\_deps\simdjson-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\BIT\hft_system\build\_deps\simdjson-subbuild\CMakeFiles\simdjson-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1B8B936F-8966-3DDA-AB06-487EF619FB83}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\BIT\hft_system\build\_deps\spdlog-subbuild\CMakeFiles\06bd3f052ea6e9c6a47672c9a8f3fe6c\spdlog-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\BIT\hft_system\build\_deps\spdlog-subbuild\CMakeFiles\06bd3f052ea6e9c6a47672c9a8f3fe6c\spdlog-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\BIT\hft_system\build\_deps\spdlog-subbuild\CMakeFiles\06bd3f052ea6e9c6a47672c9a8f3fe6c\spdlog-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\BIT\hft_system\build\_deps\spdlog-subbuild\CMakeFiles\06bd3f052ea6e9c6a47672c9a8f3fe6c\spdlog-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\BIT\hft_system\build\_deps\spdlog-subbuild\CMakeFiles\06bd3f052ea6e9c6a47672c9a8f3fe6c\spdlog-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\BIT\hft_system\build\_deps\spdlog-subbuild\CMakeFiles\06bd3f052ea6e9c6a47672c9a8f3fe6c\spdlog-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\BIT\hft_system\build\_deps\spdlog-subbuild\CMakeFiles\06bd3f052ea6e9c6a47672c9a8f3fe6c\spdlog-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\BIT\hft_system\build\_deps\spdlog-subbuild\CMakeFiles\06bd3f052ea6e9c6a47672c9a8f3fe6c\spdlog-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\BIT\hft_system\build\_deps\spdlog-subbuild\CMakeFiles\164f4a83ad42d7fc106b1e027125a19a\spdlog-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\BIT\hft_system\build\_deps\spdlog-subbuild\CMakeFiles\99d6109463f43c86d91a3f232eb99e64\spdlog-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\BIT\hft_system\build\_deps\spdlog-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\BIT\hft_system\build\_deps\spdlog-subbuild\CMakeFiles\spdlog-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1B6293FC-2F11-3ABF-88A0-79A8BDE9205E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

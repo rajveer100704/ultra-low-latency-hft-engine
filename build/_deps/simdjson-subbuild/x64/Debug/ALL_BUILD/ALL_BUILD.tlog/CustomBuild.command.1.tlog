@@ -1,0 +1,10 @@
+^C:\USERS\BIT\HFT_SYSTEM\BUILD\_DEPS\SIMDJSON-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/BIT/hft_system/build/_deps/simdjson-subbuild -BC:/Users/BIT/hft_system/build/_deps/simdjson-subbuild --check-stamp-file C:/Users/BIT/hft_system/build/_deps/simdjson-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

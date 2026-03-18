@@ -1,0 +1,19 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/BIT/hft_system/build/cmake_install.cmake",
+		"C:/Users/BIT/hft_system/build/_deps/simdjson-build/cmake_install.cmake",
+		"C:/Users/BIT/hft_system/build/_deps/spdlog-build/cmake_install.cmake",
+		"C:/Users/BIT/hft_system/build/core/cmake_install.cmake",
+		"C:/Users/BIT/hft_system/build/feed/cmake_install.cmake",
+		"C:/Users/BIT/hft_system/build/parser/cmake_install.cmake",
+		"C:/Users/BIT/hft_system/build/orderbook/cmake_install.cmake",
+		"C:/Users/BIT/hft_system/build/strategy/cmake_install.cmake",
+		"C:/Users/BIT/hft_system/build/risk/cmake_install.cmake",
+		"C:/Users/BIT/hft_system/build/execution/cmake_install.cmake",
+		"C:/Users/BIT/hft_system/build/pnl/cmake_install.cmake",
+		"C:/Users/BIT/hft_system/build/ui/cmake_install.cmake",
+		"C:/Users/BIT/hft_system/build/replay/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

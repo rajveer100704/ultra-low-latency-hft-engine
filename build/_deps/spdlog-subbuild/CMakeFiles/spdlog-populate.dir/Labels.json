@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/BIT/hft_system/build/_deps/spdlog-subbuild/CMakeFiles/spdlog-populate"
+		},
+		{
+			"file" : "C:/Users/BIT/hft_system/build/_deps/spdlog-subbuild/CMakeFiles/99d6109463f43c86d91a3f232eb99e64/spdlog-populate.rule"
+		},
+		{
+			"file" : "C:/Users/BIT/hft_system/build/_deps/spdlog-subbuild/CMakeFiles/164f4a83ad42d7fc106b1e027125a19a/spdlog-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/BIT/hft_system/build/_deps/spdlog-subbuild/CMakeFiles/06bd3f052ea6e9c6a47672c9a8f3fe6c/spdlog-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/BIT/hft_system/build/_deps/spdlog-subbuild/CMakeFiles/06bd3f052ea6e9c6a47672c9a8f3fe6c/spdlog-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/BIT/hft_system/build/_deps/spdlog-subbuild/CMakeFiles/06bd3f052ea6e9c6a47672c9a8f3fe6c/spdlog-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/BIT/hft_system/build/_deps/spdlog-subbuild/CMakeFiles/06bd3f052ea6e9c6a47672c9a8f3fe6c/spdlog-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/BIT/hft_system/build/_deps/spdlog-subbuild/CMakeFiles/06bd3f052ea6e9c6a47672c9a8f3fe6c/spdlog-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/BIT/hft_system/build/_deps/spdlog-subbuild/CMakeFiles/06bd3f052ea6e9c6a47672c9a8f3fe6c/spdlog-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/BIT/hft_system/build/_deps/spdlog-subbuild/CMakeFiles/06bd3f052ea6e9c6a47672c9a8f3fe6c/spdlog-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/BIT/hft_system/build/_deps/spdlog-subbuild/CMakeFiles/06bd3f052ea6e9c6a47672c9a8f3fe6c/spdlog-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"spdlog-populate"
+		],
+		"name" : "spdlog-populate"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/BIT/hft_system/build/_deps/simdjson-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,10 @@
+^C:\USERS\BIT\HFT_SYSTEM\BUILD\_DEPS\SIMDJSON-SUBBUILD\CMAKEFILES\F4DBBE634F337833C9DA32E6D44DC54B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/BIT/hft_system/build/_deps/simdjson-subbuild -BC:/Users/BIT/hft_system/build/_deps/simdjson-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/BIT/hft_system/build/_deps/simdjson-subbuild/simdjson-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
